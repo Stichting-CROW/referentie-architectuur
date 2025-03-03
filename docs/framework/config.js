@@ -76,7 +76,7 @@ function indexOfRequirements(config) {
 }
 var respecConfig = {
   // => https://github.com/stichting-crow/respec/wiki
-  specStatus: "DRAFT",
+  specStatus: "LD",
   pubDomain: "referentie-architectuur",
   shortName: "framework",
   license: "CC-BY",
